@@ -1,6 +1,5 @@
 import { BotMessageSquare } from "lucide-react";
 import ChatBot from "react-chatbotify";
-// import tranquilTeal from "../data/chatbotStyles/tranquilTeal.json";
 import botAvatar from "../assets/seekico.svg";
 
 const CF = {
