@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+/* for the chatbot to take full width */
+.rcb-chat-window {
+  width: 100% !important;
+}

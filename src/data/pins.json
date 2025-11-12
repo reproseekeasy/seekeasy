@@ -1,0 +1,336 @@
+[
+  {
+    "id": 1,
+    "name": "Centre Santé des Femmes de Montréal",
+    "pos": [45.534, -73.5768],
+    "cats": ["Abortion", "Birth Control"],
+    "address": "4689 avenue Papineau, Suite 300, H2H 1V4",
+    "website": "https://csfmontreal.qc.ca/",
+    "phones": ["514-270-6110"],
+    "notes": [
+      "Procedural & medical abortion",
+      "Procedural up to 15 weeks; medical up to 9 weeks",
+      "In-clinic procedure ~3 hours (5–10 min procedure); first of 2 medicines is taken at the clinic then taken at home",
+      "French & English (pamphlets also in Spanish, Arabic)",
+      "All-women staff",
+      "Accepts RAMQ/IFHP; funding available with conditions",
+      "Additional gynecological services offered"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Clinique Morgentaler",
+    "pos": [45.54, -73.633],
+    "cats": ["Sexual Assault", "Gender/Trans Resources", "STI/STBBI", "Birth Control"],
+    "address": "8560 Rue St-Hubert, Unit 310 (Villeray), H2P 1Z7",
+    "website": "https://montrealmorgentaler.ca/",
+    "phones": ["(514) 844-4844", "1-888-401-4844"],
+    "notes": [
+      "Procedural & medical abortion",
+      "Procedural up to 17 weeks; medical up to 9 weeks",
+      "Prcedural: In-clinic ~3 hours (5–10 min procedure)",
+      "Medical: prescribed at clinic; taken at home",
+      "Languages: French, English, Spanish, Hindi, Italian",
+      "All-women staff",
+      "Accepts RAMQ/IFHP",
+      "Call-back appointments available"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Clinique Médicale Fémina",
+    "pos": [45.514, -73.559],
+    "cats": ["Abortion", "Birth Control"],
+    "address": "1265 rue Berri, Office 430, H2L 4X4",
+    "website": "https://www.clinique-femina.com/en/home/",
+    "phones": ["514-843-7904"],
+    "notes": [
+      "Procedural & medical abortion",
+      "Procedural up to 12 weeks; medical up to 9 weeks",
+      "Procedural: In-clinic ~3 hours (5–10 min procedure)",
+      "Medicines taken at home; 2 clinic visits required",
+      "French & English",
+      "Accepts RAMQ",
+      "Contraception & vasectomy services"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Clinique Médicale L’Alternative",
+    "pos": [45.518, -73.565],
+    "cats": ["Abortion", "Birth Control", "STI/STBBI"],
+    "address": "2034 rue St-Hubert, H2L 3Z5",
+    "website": "https://www.cliniquedelalternative.com/",
+    "phones": ["514-281-9848", "514-281-6476"],
+    "notes": [
+      "Procedural & medical abortion",
+      "Procedural up to 12 weeks; medical up to 9 weeks",
+      "Procedural: In-clinic ~2 hours (5–10 min procedure)",
+      "Medical: 1 of 2 medicines taken at clinic; minimum 2 visits total",
+      "French & English",
+      "Accepts RAMQ/IFHP",
+      "Contraception/vasectomy & STI testing"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "CLSC Sainte-Catherine & GMFU des Faubourgs",
+    "pos": [45.514, -73.562],
+    "cats": ["Abortion", "Birth Control", "STI/STBBI"],
+    "address": "66 rue Sainte-Catherine E, H2X 1K6",
+    "phones": ["514-527-9565 ext. 3674"],
+    "notes": [
+      "Procedural & medical abortion",
+      "Procedural up to 24 weeks; medical up to 9 weeks",
+      "Procedural: In-clinic ~2 hours (5–10 min procedure)",
+      "Medical: 1 of 2 medicines taken at clinic; minimum 2 clinic visits required",
+      "French only",
+      "Accepts RAMQ/IFHP",
+      "Contraception/vasectomy & STI testing"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Montreal Sexual Assault Centre",
+    "pos": [45.555, -73.555],
+    "cats": ["Sexual Assault"],
+    "address": "1801 de Maisonneuve Blvd W, Suite 600, Montréal, QC H3H 1J9",
+    "emails": ["info@cvasm.ca"],
+    "phones": ["514-731-8531 ext. 47456"],
+    "notes": [
+      "Medico-Social Services with MGH & GMF Clinique Medic Elle)",
+      "French & English",
+      "Available to anyone 18+ who experienced sexual assault within the past 12 months",
+      "Most services do not require RAMQ or insurance",
+      "No police report required",
+      "Individual follow-ups available"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "GMF Clinique Medic Elle (with the MSAC)",
+    "pos": [45.493, -73.583],
+    "cats": ["Sexual Assault"],
+    "address": "1980 Sherbrooke St. West, Suite 500",
+    "phones": ["514-934-0505 ext. 7455"],
+    "hours": ["Mon–Fri 8am–5pm (except holidays)"],
+    "notes": [
+      "French & English services",
+      "Medical examinations / Forensics",
+      "STI testing",
+      "Medical treatment & follow-up",
+      "Psychosocial support",
+      "Info on police and legal procedures"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Montreal General Hospital",
+    "pos": [45.496, -73.588],
+    "cats": ["Sexual Assault"],
+    "address": "1650 Cedar Avenue, Montreal, QC, H3G 1A4",
+    "notes": [
+      "Offers Indigenous-led care",
+      "Languages: Inuktitut, Cree, English, French"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "CPIVAS",
+    "pos": [45.558, -73.687],
+    "cats": ["Sexual Assault"],
+    "address": "68 Bd Cartier O, Laval, QC H7N 2H5",
+    "emails": ["administration@cpivas.com", "demandeaide@cpivas.com"],
+    "phones": ["450-669-9053"],
+    "hours": ["Mon–Fri 8am–5pm"],
+    "notes": [
+      "French & English",
+      "Psychotherapy & sexology services",
+      "Group work offered",
+      "Training services"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Hôpital Notre-Dame",
+    "pos": [45.526292, -73.563423],
+    "cats": ["Sexual Assault"],
+    "address": "1560 Sherbrooke E. (Emergency: Plessis St. entrance)",
+    "phones": ["(514) 413-8999 (Emergency)"],
+    "notes": [
+      "18+",
+      "French services only",
+      "Emergency room open 24/7",
+      "On-call sexual assault support worker upon request"
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Montreal Children’s Hospital",
+    "pos": [45.472422, -73.602028],
+    "cats": ["Sexual Assault"],
+    "address": "1001 Boulevard Décarie",
+    "phones": ["(514) 412-4499 (Emergency)", "(514) 412-4481 (Clinic)", "(514) 412-4400 (General)"],
+    "notes": [
+      "24/7 Emergency Room",
+      "For folks under 18",
+      "French & English services"
+    ]
+  },
+  {
+    "id": 12,
+    "name": "CHU Sainte-Justine",
+    "pos": [45.503535, -73.624481],
+    "cats": ["Sexual Assault"],
+    "address": "3175 Chemin de la Côte-Sainte-Catherine",
+    "notes": ["For folks under 18", "French services only", "24/7 Emergency Room"]
+  },
+  {
+    "id": 13,
+    "name": "Le Chaînon",
+    "pos": [45.517705, -73.58604],
+    "cats": ["Sexual Assault", "Shelter"],
+    "address": "4373 Avenue de l'Esplanade, Montreal, QC H2W 1T2",
+    "phones": ["(514) 845-0151"],
+    "notes": ["For women and children", "French services"]
+  },
+  {
+    "id": 14,
+    "name": "Résilience Montréal",
+    "pos": [45.488939, -73.584492],
+    "cats": ["Sexual Assault", "Shelter"],
+    "address": "4000 Sainte-Catherine St W, Westmount, QC, H3Z 1P1",
+    "emails": ["general@resiliencemontreal.com"],
+    "phones": ["438-828-8995"],
+    "notes": [
+      "Crisis intervention",
+      "Harm reduction",
+      "Indigenous wellness services",
+      "Mental / Emotional support",
+      "Medical appointments",
+      "Court accompaniment",
+      "French & English"
+    ]
+  },
+  {
+    "id": 15,
+    "name": "ASTTeQ (Action Santé Travesti(e)s et Transsexuel(le)s du Québec) — CACTUS Montréal",
+    "pos": [45.512582, -73.561095],
+    "cats": ["Sexual Assault", "Shelter", "STI/STBBI", "Gender/Trans Resources"],
+    "address": "1300 Sanguinet, Montreal, QC, H2X 3E7",
+    "phones": ["514-847-0067 x.207"],
+    "notes": ["Shelter for LGBTQ+ and trans individuals", "French services"]
+  },
+  {
+    "id": 16,
+    "name": "Juripop",
+    "pos": [45.523597, -73.561116],
+    "cats": ["Sexual Assault", "Gender/Trans Resources"],
+    "address": "2006 Rue Plessis, local 300, Montréal, QC H2L 2Y3",
+    "phones": ["1-855-587-4767"],
+    "hours": ["Mon–Fri 9am–4pm", "Online; by appointment"],
+    "notes": [
+      "French & English",
+      "Legal advice",
+      "Advice for immigration status",
+      "Pro bono services available"
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Clinique Médicale L'Actuel",
+    "pos": [45.517991, -73.558952],
+    "cats": ["Sexual Assault", "STI/STBBI", "Gender/Trans Resources"],
+    "address": "1001 Maisonneuve Est, Room 1130, Montréal, QC H2L 4P9",
+    "phones": ["(514) 524-1001"],
+    "hours": ["Mon–Thu 8am–9pm", "Fri 8am–4pm", "Walk-in emergencies: Sat–Sun 8am–12pm"],
+    "notes": [
+      "PrEP / PEP",
+      "Sexology & psychotherapy",
+      "Emergency testing",
+      "Vaccination",
+      "French & English"
+    ]
+  },
+  {
+    "id": 18,
+    "name": "À Deux Mains / Head & Hands",
+    "pos": [45.465682, -73.627882],
+    "cats": ["STI/STBBI", "Gender/Trans Resources"],
+    "address": "3465 Ave. Benny, Montréal, QC H4B 2R9",
+    "phones": ["(514) 281-9848"],
+    "hours": ["Tue & Thu evenings 5–9:30pm (arrive 4:45pm for 5pm random draw of 10)"],
+    "notes": ["For young adults (ages 12–25)", "French & English"]
+  },
+  {
+    "id": 19,
+    "name": "SIDEPS — Integrated Screening & Prevention Services",
+    "pos": [45.521139, -73.558998],
+    "cats": ["STI/STBBI", "Gender/Trans Resources"],
+    "address": "1705 de la Visitation, Montréal, QC H2L 3C3",
+    "notes": [
+      "For cis & trans gay, bisexual, or non-binary men",
+      "Pre- and post-exposure HIV prophylaxis available"
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Fédération du Québec pour le planning des naissances (FQPN)",
+    "pos": [45.528986, -73.623395],
+    "cats": ["Pregnancy", "Birth Control", "Gender/Trans Resources"],
+    "address": "469 Rue Jean-Talon O, bureau 335, Montreal, QC H3N 1R4",
+    "emails": ["info@fqpn.qc.ca"],
+    "phones": ["(514) 866-3721"],
+    "notes": [
+      "Resources & information",
+      "Mostly French services (site available in English)",
+      "Contraception information",
+      "Pregnancy options"
+    ]
+  },
+  {
+    "id": 21,
+    "name": "La Maison Bleue — Côte-des-Neiges",
+    "pos": [45.501578, -73.635446],
+    "cats": ["Pregnancy", "Birth Control", "Gender/Trans Resources"],
+    "address": "3735 Plamondon Ave., Montreal, QC H3S 1L8",
+    "phones": ["514-509-0833"],
+    "notes": []
+  },
+  {
+    "id": 22,
+    "name": "La Maison Bleue — Parc-Extension",
+    "pos": [45.531181, -73.631675],
+    "cats": ["Pregnancy", "Birth Control", "Gender/Trans Resources"],
+    "address": "7867, av. Querbes, Montreal, QC H3N 2B9",
+    "phones": ["514-507-9123"],
+    "notes": []
+  },
+  {
+    "id": 23,
+    "name": "La Maison Bleue — Saint-Michel",
+    "pos": [45.560355, -73.593351],
+    "cats": ["Pregnancy", "Birth Control", "Gender/Trans Resources"],
+    "address": "3539 Bélair Street, Montreal, QC H2A 2B1",
+    "phones": ["514-379-3539"],
+    "notes": []
+  },
+  {
+    "id": 24,
+    "name": "La Maison Bleue — Verdun",
+    "pos": [45.456539, -73.571762],
+    "cats": ["Pregnancy", "Birth Control", "Gender/Trans Resources"],
+    "address": "4936 rue de Verdun, Montréal, QC H4G 1N3",
+    "phones": ["514-564-4936"],
+    "notes": []
+  },
+  {
+    "id": 25,
+    "name": "La Maison Bleue — Montréal-Nord",
+    "pos": [45.597504, -73.629591],
+    "cats": ["Pregnancy", "Birth Control", "Gender/Trans Resources"],
+    "address": "4896 rue de Charleroi, Montréal, QC H1G 2Y7",
+    "phones": ["514-903-4896"],
+    "notes": []
+  }
+]
