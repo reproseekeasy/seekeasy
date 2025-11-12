@@ -1,0 +1,60 @@
+{
+    "bodyStyle": {
+        "backgroundColor": "#f0f0f0"
+    },
+    "chatHistoryButtonStyle": {
+        "backgroundColor": "#009688",
+        "color": "#ffffff"
+    },
+    "chatHistoryButtonHoveredStyle": {
+        "backgroundColor": "#00796b"
+    },
+    "chatInputContainerStyle": {
+        "backgroundColor": "#ffffff"
+    },
+    "chatInputAreaStyle": {
+        "backgroundColor": "#e0e0e0",
+        "color": "#000000"
+    },
+    "botBubbleStyle": {
+        "backgroundColor": "#80cbc4"
+    },
+    "userBubbleStyle": {
+        "backgroundColor": "#4db6ac"
+    },
+    "headerStyle": {
+        "backgroundImage": "linear-gradient(to right, #009688, #009688)"
+    },
+    "botOptionStyle": {
+        "backgroundColor": "#009688",
+        "color": "#ffffff"
+    },
+    "botOptionHoveredStyle": {
+        "backgroundColor": "#00796b",
+        "color": "#ffffff"
+    },
+    "chatHistoryLineBreakStyle": {
+        "color": "#80cbc4"
+    },
+    "botCheckboxNextStyle": {
+        "backgroundColor": "#009688",
+        "color": "#ffffff"
+    },
+    "botCheckboxRowStyle": {
+        "backgroundColor": "#b2dfdb",
+        "color": "#004d40"
+    },
+    "botCheckMarkStyle": {
+        "backgroundColor": "#00796b"
+    },
+    "footerStyle": {
+        "backgroundColor": "#009688",
+        "color": "#ffffff"
+    },
+    "sendButtonStyle": {
+        "backgroundColor": "#4db6ac"
+    },
+    "sendButtonHoveredStyle": {
+        "backgroundColor": "#009688"
+    }
+}
