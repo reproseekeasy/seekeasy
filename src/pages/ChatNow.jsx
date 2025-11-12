@@ -1,6 +1,6 @@
 import { BotMessageSquare } from "lucide-react";
 import ChatBot from "react-chatbotify";
-import tranquilTeal from "../data/chatbotStyles/tranquilTeal.json";
+// import tranquilTeal from "../data/chatbotStyles/tranquilTeal.json";
 import botAvatar from "../assets/seekico.svg";
 
 const CF = {
@@ -110,7 +110,7 @@ export default function ChatNow() {
 
       <div className="mt-6 rounded-2xl border border-neutral-200 bg-white shadow-sm">
         <div className="w-full p-4">
-          <ChatBot flow={flow} styles={tranquilTeal} settings={settings} onMessage={onMessage} />
+          <ChatBot flow={flow} settings={settings} onMessage={onMessage} />
         </div>
       </div>
     </section>
