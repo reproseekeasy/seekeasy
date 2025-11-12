@@ -1,16 +1,36 @@
-# React + Vite
+# SeekEasy
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**SeekEasy** is a culturally sensitive, community-based project designed to help people find **sexual and reproductive health (SRH)** services — from **primary care** to **mental health** and **crisis support**.  
 
-Currently, two official plugins are available:
+Our mission is to make **abortion and reproductive health access** a little easier, quicker, and more private for everyone who needs it.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## 💬 About
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+SeekEasy is run by a **diverse group of facilitators** who operate a completely **anonymized text line and chatbot**.  
+These tools allow care seekers to:
+- Ask questions safely  
+- Get referrals to trusted providers  
+- Access additional support such as **travel or accompaniment**  
+— all **without ever having to identify themselves**.
 
-## Expanding the ESLint configuration
+We believe in **discretion, compassion, and flexibility** — building a community that uplifts and protects vulnerable groups while helping them navigate care that suits their needs.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🌎 Mission
+
+SeekEasy’s approach to care is rooted in the understanding that **access** is shaped by **systemic and intersectional barriers**.  
+Even when services exist, reaching them can be complicated by geography, stigma, cost, language, and more.  
+
+Our goal is to support individuals in **navigating reproductive care systems** in ways that are personal, respectful, and empowering.
+
+---
+
+## 🧠 Technology
+
+This project uses:
+- **React + Vite** for a fast, responsive frontend  
+- **Tailwind CSS v4** for modern, accessible design  
+- **Cloudflare Workers AI** for search and chatbot functionality  
