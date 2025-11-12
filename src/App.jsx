@@ -10,8 +10,6 @@ import Contact from "./pages/Contact";
 import TextLine from "./pages/TextLine";
 import About from "./pages/About";
 import Privacy from "./pages/Privacy";
-import Test from "./pages/test";
-
 
 // ------------------------------------------------------
 // ROOT WRAPPER
@@ -90,7 +88,6 @@ function AppShell() {
               <Route path="/privacy" element={<Privacy />} />
               <Route path="/contact" element={<Contact />} />
               <Route path="/chatnow" element={<ChatNow />} />
-              <Route path="/test" element={<Test />} />
             </Routes>
           </div>
         </motion.main>
