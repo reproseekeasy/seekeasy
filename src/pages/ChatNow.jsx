@@ -1,6 +1,6 @@
 import { BotMessageSquare } from "lucide-react";
 import ChatBot from "react-chatbotify";
-import botAvatar from "../assets/seekico.svg";
+import botAvatar from "../assets/seekbot.png";
 
 const CF = {
   url: "/cf-ai",

@@ -1,6 +1,6 @@
 import { useMemo, useState } from "react";
 import { MapContainer, TileLayer, ZoomControl, Marker, Popup } from "react-leaflet";
-import { Phone, Mail, Globe, LifeBuoy, Shield, Heart, Layers} from "lucide-react";
+import { Phone, Mail, Globe, LifeBuoy, HouseHeart, Cross, Layers, Radio} from "lucide-react";
 import PINS from "../data/pins.json";
 import CATS from "../data/cats";        
 import FiltersBar from "../components/FiltersBar";
@@ -98,7 +98,7 @@ export function Home() {
       <div className="rounded-3xl border border-neutral-200 bg-white shadow-md mt-10">
         <header className="flex items-center gap-3 p-5 border-b border-neutral-200">
           <span className="inline-flex h-10 w-10 items-center justify-center rounded-xl bg-emerald-100 text-emerald-700">
-            <LifeBuoy className="h-5 w-5" aria-hidden="true" />
+            <Radio className="h-5 w-5" aria-hidden="true" />
           </span>
           <h2 className="text-2xl font-semibold tracking-tight text-emerald-700">
             Online / No-Touch Services
@@ -109,7 +109,7 @@ export function Home() {
           {/* Native Women’s Shelter Montreal */}
           <article className="rounded-2xl border border-neutral-200 bg-white/90 p-4 shadow-sm">
             <div className="flex items-center gap-2">
-              <Shield className="h-5 w-5 text-emerald-600" />
+              <HouseHeart className="h-5 w-5 text-emerald-600" />
               <h3 className="text-lg font-semibold">Native Women’s Shelter Montreal</h3>
             </div>
             <p className="mt-1 text-sm text-neutral-600">
@@ -202,7 +202,7 @@ export function Home() {
       <div className="mt-8 rounded-3xl border border-neutral-200 bg-white shadow-md">
         <header className="flex items-center gap-3 p-5 border-b border-neutral-200">
           <span className="inline-flex h-10 w-10 items-center justify-center rounded-xl bg-amber-100 text-amber-700">
-            <Heart className="h-5 w-5" aria-hidden="true" />
+            <Cross className="h-5 w-5" aria-hidden="true" />
           </span>
           <h2 className="text-2xl font-semibold tracking-tight text-amber-700">
             Abortion & Accompaniment
